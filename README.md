@@ -1,4 +1,4 @@
-# Unscented Kalman Filter and simulator
+# Unscented Kalman Filter (UKF) and simulator
 
 An Unscented Kalman Filter estimator with simulated targets embedded.
 
